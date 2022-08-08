@@ -1,15 +1,25 @@
 ---
-title: "Paper Title Number 1"
+title: "A Deep Neural Network-Based Yoruba Intelligent Chatbot System"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: dx.doi.org/10.22624/AIMS/DIGITAL/V10N2P4
+excerpt: 'This paper focuses on the development of A Yoruba based intelligent chatbot using Deep Neural Networks.'
+date: 2022-6-14
+venue: 'Digital Innovations and Contemporary Research in Science'
+paperurl: 'dx.doi.org/10.22624/AIMS/DIGITAL/V10N2P4'
+citation: 'Babatunde, A.N., Oke, A.A., Balogun, B.F., AbdulRahman, T.A4 &
+Ogundokun, R.O5 (2022):
+ A Deep Neural Network-Based Yoruba Intelligent Chatbot
+System. Journal of Digital Innovations & Contemporary Research in
+Science, Engineering & Technology. Vol. 10 No. 2. Pp 69-80
+DOI: dx.doi.org/10.22624/AIMS/DIGITAL/V10N2P4.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper focuses on the development of A Yoruba based intelligent chatbot using Deep Neural Networks.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](dx.doi.org/10.22624/AIMS/DIGITAL/V10N2P4)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Babatunde, A.N., Oke, A.A., Balogun, B.F., AbdulRahman, T.A4 &
+Ogundokun, R.O5 (2022):
+ A Deep Neural Network-Based Yoruba Intelligent Chatbot
+System. Journal of Digital Innovations & Contemporary Research in
+Science, Engineering & Technology. Vol. 10 No. 2. Pp 69-80
+DOI: dx.doi.org/10.22624/AIMS/DIGITAL/V10N2P4.
