@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 3"
+title: "English to Yoruba short message service speech and text translator for android phones"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: https://link.springer.com/article/10.1007/s10772-021-09852-w
+excerpt: 'This paper is about reducing the glitches of English to Yoruba machine translations to bridge the communication gap.'
+date: 2021-05-31
+venue: 'International Journal of Speech Technology'
+paperurl: 'https://link.springer.com/article/10.1007/s10772-021-09852-w'
+citation: 'Babatunde, A.N., Abikoye, C.O., Oloyede, A.A. et al. English to Yoruba short message service speech and text translator for android phones. Int J Speech Technol 24, 979–991 (2021). https://doi.org/10.1007/s10772-021-09852-w'
 ---
-This paper is about the number 3. The number 4 is left for future work.
+This paper is about reducing the glitches of English to Yoruba machine translations to bridge the communication gap.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://link.springer.com/article/10.1007/s10772-021-09852-w)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Babatunde, A.N., Abikoye, C.O., Oloyede, A.A. et al. English to Yoruba short message service speech and text translator for android phones. Int J Speech Technol 24, 979–991 (2021). https://doi.org/10.1007/s10772-021-09852-w.
