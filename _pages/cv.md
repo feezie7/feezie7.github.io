@@ -11,19 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Computer Science, Bayero University,Kano,  2012
+* M.Sc. in Computer Science, Kwara State University,Malete, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* 2021-2022: Lecturer
+  * Summit University, Offa, Nigeria
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2017-2021: Systems Analyst
+  * Summit University, Offa, Nigeria
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+* 2016-2017: IT Trainer
+  * NIIT Kano, Nigeria
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
