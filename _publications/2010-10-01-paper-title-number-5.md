@@ -1,17 +1,14 @@
 ---
-title: "Mobile Based Student Attendance System Using Geo-Fencing With Timing and Face Recognition"
+title: "Enhanced image security using residue number system and new Arnold transform"
 collection: publications
-permalink: http://dx.doi.org/10.22624/AIMS/MATHS/V10N1P8
-excerpt: 'The study presents a student attendance system for schools and colleges combining Geo Fencing using the geofencing API.'
-date: 2022-3-5
-venue: 'Journal of Advances in Mathematical & Computational Sciences'
-paperurl: 'http://dx.doi.org/10.22624/AIMS/MATHS/V10N1P8'
-citation: 'Babatunde, A.N., Oke, A.A., Babatunde, R.S, Ibitoye, O. & Jimoh, E.R.'
+permalink: https://jtsiskom.undip.ac.id/article/download/14038/12712
+excerpt: 'The study focuses on improving the classical discrete Arnold transform with quasi-affine properties, applying image scrambling and encryption research.'
+date: 2021-10-31
+venue: 'Jurnal Teknologi dan Sistem Komputer'
+paperurl: 'https://jtsiskom.undip.ac.id/article/download/14038/12712'
+citation: 'A. N. Babatunde, A. A. Oke, A. A. Oloyede, and A. O. Bello, "Enhanced image security using residue number system and new Arnold transform," Jurnal Teknologi dan Sistem Komputer, vol. 9, no. 4, pp. 205-210, Oct. 2021. https://doi.org/10.14710/jtsiskom.2021.14038'
 ---
-The study presents a student attendance system for schools and colleges combining Geo Fencing using the geofencing API.
+The study focuses on improving the classical discrete Arnold transform with quasi-affine properties, applying image scrambling and encryption research.
+[Download paper here](https://jtsiskom.undip.ac.id/article/download/14038/12712)
 
-[Download paper here](http://dx.doi.org/10.22624/AIMS/MATHS/V10N1P8)
-
-Recommended citation: Babatunde, A.N., Oke, A.A., Babatunde, R.S, Ibitoye, O. & Jimoh, E.R. (2022): Mobile Based Student Attendance System Using Geo-Fencing
-With Timing And Face Recognition. Journal of Advances in Mathematical & Computational Sciences. Vol. 9, No. 2. Pp 75-90
-dx.doi.org/10.22624/AIMS/MATHS/V10N1P8.
+Recommended citation: A. N. Babatunde, A. A. Oke, A. A. Oloyede, and A. O. Bello, "Enhanced image security using residue number system and new Arnold transform," Jurnal Teknologi dan Sistem Komputer, vol. 9, no. 4, pp. 205-210, Oct. 2021. https://doi.org/10.14710/jtsiskom.2021.14038.
