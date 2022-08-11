@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "OKE Afeez Adeshina"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a Lecturer in the Department of Mathematics and Computer Science at Summit University, Offa, Kwara State Nigeria."
   location         : "Nigeria"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         :  "Summit University Offa, Nigeria"
+  pubmed           : ""
   googlescholar    : "https://scholar.google.com/citations?user=wF6LvEMAAAAJ&hl=en"
   email            :  "adeshinaoke@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/Afeez-Oke"
