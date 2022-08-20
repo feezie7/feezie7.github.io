@@ -1,15 +1,15 @@
 ---
-title: "English to Yoruba short message service speech and text translator for android phones"
+title: "A Scheme for Resilient Routing in Residue Number System based Software Defined Networks"
 collection: publications
-permalink: https://link.springer.com/article/10.1007/s10772-021-09852-w
-excerpt: 'This paper is about reducing the glitches of English to Yoruba machine translations to bridge the communication gap.'
-date: 2021-05-31
-venue: 'International Journal of Speech Technology'
-paperurl: 'https://link.springer.com/article/10.1007/s10772-021-09852-w'
-citation: 'Babatunde, A.N., Abikoye, C.O., Oloyede, A.A. et al. English to Yoruba short message service speech and text translator for android phones. Int J Speech Technol 24, 979–991 (2021). https://doi.org/10.1007/s10772-021-09852-w'
+permalink: https://www.researchgate.net/publication/362813965_A_Scheme_for_Resilient_Routing_in_Residue_Number_System_based_Software_Defined_Networks
+excerpt: 'The paper presents an approach that is intended to improve SDN routing and reduces the computational in RNS based SDN.'
+date: 2021-06-24
+venue: 'Technoscience Journal for Community Development in Africa'
+paperurl: 'https://www.researchgate.net/publication/362813965_A_Scheme_for_Resilient_Routing_in_Residue_Number_System_based_Software_Defined_Networks'
+citation: 'Oke, A.A., Babatunde, A.n., Oloyede, A.A. et al. A Scheme for Resilient Routing in Residue Number System based SOftware Defined Networks. Technoscience Journal for Community Development in Africa 2:1 (2021) 69–79. '
 ---
-This paper is about reducing the glitches of English to Yoruba machine translations to bridge the communication gap.
+The paper presents an approach that is intended to improve SDN routing and reduces the computational in RNS based SDN.
 
-[Download paper here](https://link.springer.com/article/10.1007/s10772-021-09852-w)
+[Download paper here](https://www.researchgate.net/publication/362813965_A_Scheme_for_Resilient_Routing_in_Residue_Number_System_based_Software_Defined_Networks)
 
-Recommended citation: Babatunde, A.N., Abikoye, C.O., Oloyede, A.A. et al. English to Yoruba short message service speech and text translator for android phones. Int J Speech Technol 24, 979–991 (2021). https://doi.org/10.1007/s10772-021-09852-w.
+Recommended citation: Oke, A.A., Babatunde, A.n., Oloyede, A.A. et al. A Scheme for Resilient Routing in Residue Number System based SOftware Defined Networks. Technoscience Journal for Community Development in Africa 2:1 (2021) 69–79..
