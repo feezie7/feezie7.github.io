@@ -18,19 +18,18 @@ Work experience
 ======
 * 2021-2022: Lecturer
   * Summit University, Offa, Nigeria
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Duties included: Teaching and Research
+  
 
 * 2017-2021: Systems Analyst
   * Summit University, Offa, Nigeria
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Duties included: Analyzing software, hardware and the wider IT system
+ 
   
 * 2016-2017: IT Trainer
   * NIIT Kano, Nigeria
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+  * Duties included: Identifying educational needs, designing educational material and providing Information Technology trainings
+ 
 Skills
 ======
 * Teaching
