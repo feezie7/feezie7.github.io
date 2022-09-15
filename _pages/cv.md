@@ -61,4 +61,8 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Coordinator, Information and Communication Technology Unit, Summit University, Offa, Nigeria (2020 – Till date)
+* Member, Student Affairs Committee, Summit University, Offa, Nigeria (2020 – 2021)
+* Coordinator, Sports Unit, Summit University, Offa, Nigeria (2020 – 2022)
+* Member, Summit University Strategic Planning Committee, (2019).
+* Member, Student Representative Assembly, Bayero University Kano, Nigeria (2008-2009)
