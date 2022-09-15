@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Computer Science, Bayero University,Kano,  2012
-* M.Sc. in Computer Science, Kwara State University,Malete, 2014
+* M.Sc. in Computer Science, Kwara State University,Malete, 2021
 
 Work experience
 ======
@@ -33,12 +33,13 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Teaching
+* Research
+* Programming
+  * Proficient in Python Programming
+  * Proficient in Java Programming
+  * Intermediate skills with MATLAB programming
+
 
 Publications
 ======
