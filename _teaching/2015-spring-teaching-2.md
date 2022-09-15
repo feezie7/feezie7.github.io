@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 2"
+title: "Lecturer"
 collection: teaching
-type: "Workshop"
+type: "HND and ND in Computer Science"
 permalink: /teaching/2015-spring-teaching-1
 venue: "Isa Mustapha Agwai Polytechnic, Computer Science Department"
 date: 2015-01-01
