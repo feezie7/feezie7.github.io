@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a prospective PhD Student in Computer Science with interests centered around  Natural Language Processing for low resource languages, Machine Learning systems as well as the application of AI to the security of Information systems. I have experience with Programming in Java and Python. These experiences were accrued from both my Position as a Faculty and Systems Analyst at [Summit University, Offa, Nigeria](https://www.summituniversity.edu.ng) and my undergraduate and MSc. research work at [Kwara State University, Malete, Nigeria](https://web.kwasu.edu.ng). I have experience working on  working on an Intelligent Chatbot System for Yoruba Language, English to Yoruba SMS speech and text translator for mobile phones. 
+I obtained my BSc in Computer Science from [Bayero University Kano](https://buk.edu.ng) in Nigeria, where I also developed a strong foundation in the basic ideas of programming and computing. Using this information as a foundation, I continued my education and earned a MSc degree from[Kwara State University, Malete, Nigeria](https://web.kwasu.edu.ng) in Malete, Nigeria, where I was able to deepen my knowledge and comprehension of the domain.
 
-I have an MSc in Computer Science from the Kwara State University, Malete, Nigeria and a BSc in Computer Science from the Bayero University, Kano, Nigeria. For more, see my [C.V] .
+I am currently a doctoral degree researcher at the [University of Ilorin](https://unilorin.edu.ng) in Nigeria. Artificial intelligence, Machine Learning, Natural Language Processing, and human-robot interaction are the main areas of my research. This topic of study reflects my significant interest in the fundamental field of artificial intelligence, where I aim to address the difficulties in creating models for human-robot interaction and how to use them in real-time.
 
-Favourite Quote: "Intelligence plus character-that is the goal of true education" (Martin Luther King Jr)
+My study focuses on using self-supervised learning to create generic language models for human-robot interaction and investigating how these models might be utilized in real time to predict and anticipate human behaviour and therefore enhance the interaction.
+I demonstrate my dedication to academic achievement and a profound desire for furthering the field of artificial intelligence with my extensive educational background and pursuit of a PhD. My study demonstrates my commitment to identifying practical answers that might enhance human-robot interaction.
+
+Given the nature of my research concentration outside of school, I consider myself to be a conscientious and detail-oriented person. I have strong problem-solving, analytical, and teamwork skills, all of which are necessary in the field of artificial intelligence.
+
 
 
 
